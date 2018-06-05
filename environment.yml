@@ -7,6 +7,6 @@ dependencies:
   - scipy
   - pandas
   - sklearn
-  - pip
+  - pip:
     - gpmap
     - epistasis
