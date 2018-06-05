@@ -6,7 +6,7 @@ dependencies:
   - matplotlib
   - scipy
   - pandas
-  - sklearn
+  - scikit-learn
   - pip:
     - gpmap
     - epistasis
